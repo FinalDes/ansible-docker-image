@@ -44,7 +44,7 @@ Dockerfile and project originally created by Jeff Geerling (https://www.jeffgeer
 
 Source: https://github.com/geerlingguy/docker-ubuntu1604-ansible
 
-Updated by https://github.com/percygrunwald/docker-ubuntu1604-ansible
+Updated by Percy Grunwald Source from: https://github.com/percygrunwald/docker-ubuntu1604-ansible
 
 ## License
 
