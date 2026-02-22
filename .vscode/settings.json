@@ -1,6 +1,6 @@
-// {
-//   "files.associations": {
-//     "docker-bake.hcl": "hcl",
-//     "*.bake.hcl": "hcl"
-//   }
-// }
+{
+  "files.associations": {
+    "docker-bake.hcl": "hcl",
+    "*.bake.hcl": "hcl"
+  }
+}
