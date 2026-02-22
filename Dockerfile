@@ -1,6 +1,11 @@
 # syntax=docker/dockerfile:1.21.0
+
 FROM ubuntu:24.04
-LABEL maintainer="Alex Alonso"
+LABEL org.opencontainers.image.title="Ubuntu Ansible Test Image"
+LABEL org.opencontainers.image.description="Ubuntu Docker container for Ansible playbook and role testing."
+LABEL org.opencontainers.image.authors="Alex Alonso"
+LABEL org.opencontainers.image.licenses="MIT"
+LABEL org.opencontainers.image.source="https://github.com/FinalDes/ansible-docker-image"
 
 ARG DEBIAN_FRONTEND=noninteractive
 
