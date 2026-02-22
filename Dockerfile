@@ -1,3 +1,4 @@
+# syntax=docker/dockerfile:1.21.0
 FROM ubuntu:24.04
 LABEL maintainer="Alex Alonso"
 
