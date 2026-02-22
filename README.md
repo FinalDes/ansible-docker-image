@@ -41,7 +41,9 @@ I use Docker to test my Ansible roles and playbooks on multiple OSes using CI to
 
 ## Credits
 Dockerfile and project originally created by Jeff Geerling (https://www.jeffgeerling.com/)
+
 Source: https://github.com/geerlingguy/docker-ubuntu1604-ansible
+
 Updated by https://github.com/percygrunwald/docker-ubuntu1604-ansible
 
 ## License
